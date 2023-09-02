@@ -26,6 +26,10 @@ To start the frontend
     npm start
 ```
 
+Demo Id
+
+rentkar@gmail.com
+rentkar1234
 
 
 
